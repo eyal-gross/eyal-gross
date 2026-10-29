@@ -1,12 +1,12 @@
-### Hi, I'm Eyal
+### Hey, I'm Eyal
 
-I build AI products end to end: product, architecture, and the systems that keep them running.
+I'm a founder and I build AI products 
 
 - Founding engineer at **Flowtel** (YC): solo-built a system that reverse-engineers hotel booking widgets with Playwright and AI browser agents, auto-generates OpenAPI specs and tests, and improves itself through an eval loop.
 - Founder of **Swellyo**, a surf travel platform (~3.5 years). Led the dev team and owned every technical decision for the iOS & Android app. Shipped "Local Portal", a production multi-agent system (with code gates and LLM-judge evals) used by locals in 4+ countries, and ran feedback loops with design partners and testers.
 - I design the system and direct AI coding tools (Claude Code) to ship it.
 
-**Things I've built**
+**Things I've built for fun**
 
 - [job-pipeline](https://github.com/eyal-gross/job-pipeline) - an autonomous interview-generating machine. Hunts postings nightly, AI agents grade and prepare each application, a Playwright worker submits real ATS forms, a mail clerk proves receipts, and a scheduled reviewer fixes the loop itself.
 - [airport-investment-agent](https://github.com/eyal-gross/airport-investment-agent) - an AI agent on public BTS/FAA data that ranks US airports for investment, with a number check that blocks any figure no tool returned and a 26-question eval.
