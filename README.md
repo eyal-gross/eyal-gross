@@ -3,7 +3,7 @@
 I build AI products end to end: product, architecture, and the systems that keep them running.
 
 - Founding engineer at **Flowtel** (YC): solo-built a system that reverse-engineers hotel booking widgets with Playwright and AI browser agents, auto-generates OpenAPI specs and tests, and improves itself through an eval loop.
-- Founder of **Swellyo**, a surf travel platform (~3.5 years).
+- Founder of **Swellyo**, a surf travel platform (~3.5 years). Led the dev team and owned every technical decision for the iOS & Android app. Shipped "Local Portal", a production multi-agent system (with code gates and LLM-judge evals) used by locals in 4+ countries, and ran feedback loops with design partners and testers.
 - I design the system and direct AI coding tools (Claude Code) to ship it.
 
 **Things I've built**
